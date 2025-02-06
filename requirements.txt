@@ -1,0 +1,9 @@
+numpy>=1.21.0
+torch>=1.9.0
+transformers>=4.20.0
+scikit-learn>=0.24.0
+vllm>=0.1.0
+pytest>=6.0.0
+black>=21.0.0
+isort>=5.0.0
+mypy>=0.900
